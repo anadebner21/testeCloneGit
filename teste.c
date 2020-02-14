@@ -13,7 +13,10 @@ int main(){
 	}
 
 	printf ("sua idade subtraida por 1 é: %d", idade);
-
-
-    return 0;
+	
+	idade +=1;
+	
+	printf(sua idade original");
+	       
+      return 0;
 }
